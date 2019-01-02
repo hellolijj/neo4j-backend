@@ -10,9 +10,9 @@
     </parent>
     <groupId>pers.ccdongyu</groupId>
     <artifactId>neo4j-backend</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <description>Demo project for Spring Boot</description>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <properties>
         <java.version>1.8</java.version>
